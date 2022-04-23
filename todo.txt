@@ -19,3 +19,10 @@
 2: Finish assignment
 3: Clean my room
  
+--------------------
+[0;39;42mTODO DATE: 1[0m
+--------------------
+1: Go to school
+2: Finish assignment
+3: Clean my room
+ 
