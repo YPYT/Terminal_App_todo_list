@@ -72,38 +72,38 @@ You can also view your previous lists, and delete the lists if you require.
    - [rubocop Documentation](https://docs.rubocop.org/rubocop/index.html)  
    - [Ruby Style Guide](https://rubystyle.guide/) 
 
-## **Help Documentation**
+## **Help Documentation**  
 
-- ### **System/hardware Requirements**
+- ### **System/hardware Requirements**  
+   The requirements is the same level as below.  
    - macOS 
      - Version 12.2.1 (21D62)
-     - Memory 8 GV
+     - Memory 8 GV  
+  
 
-
-- ### **Installation**
+- ### **Installation**  
    [Terminal App: GitHub link is here](https://github.com/YPYT/Terminal_App_todo_list)  
      
    1. Move to the directory you want to add this terminal app in the terminal.  
    ``` 
    $ cd The_name_of_your_directory/
    ```  
-
-   2. In the directory, execute:
+  
+   2. In the directory, execute:  
    ```
    $ git clone git@github.com:YPYT/Terminal_App_todo_list.git
    ```  
-   Press Enter to create a local clone.
-
-   3. Now you have application files in the directory. Move to "Todo_list" directory, then follow the "Dependencies required by the application to operate" below.    
+   Press Enter to create a local clone.  
+ 
+   3. Now you have application files in the directory. Move to "Terminal_App_todo_list" directory, then follow the "Dependencies required by the application to operate" below.     
   　　  
   　　  
-- ### **Dependencies required by the application to operate**
-   This app require some gems, so make sure install these gems in the "Todo_list" directory before you start using.   
-   Move to "Todo_list" directory: execute
+- ### **Dependencies required by the application to operate**  
+   This app require some gems, so make sure install these gems in the "Terminal_App_todo_list" directory before you start using.   
+   Move to "Terminal_App_todo_list" directory: execute  
    ``` 
-   $ cd The_name_of_your_directory/Todo_list/
-   ```
-
+   $ cd The_name_of_your_directory/Terminal_App_todo_list/
+   ```  
    - tty prompt  
      [tty-prompt GitHub link](https://github.com/piotrmurach/tty-prompt)  
      *Installation*  
@@ -158,12 +158,12 @@ You can also view your previous lists, and delete the lists if you require.
      $ bundle install 
      ```
 
-- ### **How to use this app**
-   This application use terminal command line arguments to make a todo list.    
-   Move to "Todo_list" directory.  
+- ### **How to use this app**  
+   This application use terminal command line arguments to make a todo list.     
+   Move to "Terminal_App_todo_list" directory.  
    Then execute :  
    ```
-   ruby $ main.rb "your first task here" "your second task here" "your third task here"
+   $ ruby main.rb "your first task here" "your second task here" "your third task here"
    ```
    You can add your task as many as you want, but there are some rules to write your tasks.  
    - Put a downcase white space after main.rb
@@ -172,4 +172,3 @@ You can also view your previous lists, and delete the lists if you require.
 
 
 - ### **Reference**
-   
