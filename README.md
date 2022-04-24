@@ -181,3 +181,9 @@ You can also view your previous lists, and delete the lists if you require.
 
 
 - ### **Reference**
+
+- [how to use File](https://www.rubyguides.com/2015/05/working-with-files-ruby/)   
+- [how to print actual index number of array](https://stackoverflow.com/questions/58705637/ruby-how-to-print-the-actual-index-number-of-an-array-not-the-value-of-that-i)  
+- [why is gets throwing an error when arguments are passed to my ruby script?](https://stackoverflow.com/questions/2166862/why-is-gets-throwing-an-error-when-arguments-are-passed-to-my-ruby-script)  
+
+
