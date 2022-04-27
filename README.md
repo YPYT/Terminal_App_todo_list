@@ -118,14 +118,14 @@ You can also view your previous lists, and delete the lists if you require.
      ```  
 
    - tty box  
-     [tty-box GitHub link](https://github.com/piotrmurach/tty-box)
+     [tty-box GitHub link](https://github.com/piotrmurach/tty-box)  
      *Installation*  
      ```
      $ gem install tty-box  
      ``` 
 
    - colorize  
-     [colorize GitHub](https://github.com/fazibear/colorize)
+     [colorize GitHub](https://github.com/fazibear/colorize)  
      *Installation*  
      ```
      $ gem install colorize
@@ -138,7 +138,7 @@ You can also view your previous lists, and delete the lists if you require.
      $ gem install date
      ```  
        
-     **You can also install all the gems above by using bundler.(optional)**  
+     **You can also install all the gems above by using bundler.(recommend)**  
      [bundler website link](https://bundler.io/)
      
      ``` 
